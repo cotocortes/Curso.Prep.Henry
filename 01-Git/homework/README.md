@@ -119,7 +119,7 @@ Deberías ver algo parecido a estas líneas:
 ```bash
   Changes not staged for commit:
     (use "git add <file>..." to update what will be committed)
-    (use "git checkout -- <file>..." to discard changes in working directory)
+    (use "git checkout -- <file>..." to discdard changes in working directory)
 
     modified:   README.md
 
