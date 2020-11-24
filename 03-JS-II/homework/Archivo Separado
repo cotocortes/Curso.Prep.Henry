@@ -1,0 +1,2 @@
+for: bucle que sirve para hacer tareas repetitivas
+operadores &&, ||, ! : son como operadores matematicos, pero para datos booleanos. un operador recibe dos 'operandos' y segun el valor de los operandos devuelve un resultado

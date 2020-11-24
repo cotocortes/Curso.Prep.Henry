@@ -1,0 +1,13 @@
+ARCHIVO SEPARADO 02-JS-I
+
+Variables: definir algo para usarlo en otro momento.
+
+Strings: una palabra o algo parecido (con letras y/o números) que va enconmillada.
+
+Funciones: objetos que sirven para cambiar o hacer algo con Variables.
+Argumentos: valor de una variable dentro de una función.
+Return: método para cerrar una función y devolver algo.
+
+Declaraciones If: para controlar que si algo es asi (ejemplo> if num>90) es 'true' o es 'false'
+
+Valores booleanos: dan dos opciones (true o false) para ver si algo es verdadero o falso.
