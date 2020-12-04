@@ -74,7 +74,7 @@ function multiplicarArgumentos() {
   for(var i = 0; i < arguments.length; i++) {
     total = total * arguments[i];
   }
-  return total;
+  return total; 
 }
 
 
